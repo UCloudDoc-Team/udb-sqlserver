@@ -1,6 +1,6 @@
 # 云数据库 SQL Server
 
-{{indexmenu_n>4}}
+
 
 SQL Server 是发行最早的商用数据库产品之一，作为 Windows 平台（IIS + .NET + SQL
 Server）中的重要一环，支撑着大量的企业应用。云数据库SQL
@@ -9,4 +9,4 @@ License 费用，您无需再额外支出 License 费用。
 
 **目录**
 
-{{indexmenu>:database:udb-sqlserver#1 | nsort dsort msort}}
+
