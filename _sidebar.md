@@ -1,6 +1,6 @@
 * 云数据库 SQL Server
     * [概览](database/udb-sqlserver/overview)
-    * [产品简介](database/udb-sqlserver/introduce)
+    *  [什么是云数据库SQL Sever](database/udb-sqlserver/introduce)
     * [产品优势](database/udb-sqlserver/superiority)
     * [应用场景](database/udb-sqlserver/use)
     * [快速上手](database/udb-sqlserver/quick)
