@@ -7,6 +7,3 @@
 * [快速上手](/udb-sqlserver/quick)
 * [产品价格](/udb-sqlserver/price)
 * [FAQ](/udb-sqlserver/faq)
-    
-    
-        
