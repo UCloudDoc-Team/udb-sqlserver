@@ -7,5 +7,3 @@
 * [产品价格](/udb-sqlserver/price)
 * [FAQ](/udb-sqlserver/faq)
     
-    
-        
