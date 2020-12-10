@@ -1,4 +1,3 @@
-<div class="sidebar_title icon__udb"> 云数据库 SQL Server</div>
 
 * [概览](/udb-sqlserver/README)
 * [什么是云数据库SQL Sever](/udb-sqlserver/introduce)
