@@ -24,7 +24,7 @@
 
 ![image](/images/0129003backup.png)
 
-备份策略设置：
+自动备份控制台支持用户自主修改自动备份时间，如下备份策略设置：
 
 ![image](/images/0202backup.png)
 
