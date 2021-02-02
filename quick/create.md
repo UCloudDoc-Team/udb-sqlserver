@@ -2,7 +2,7 @@
 
 ### 新建UDB SQL Server实例
 
-1、创建1台SQL Server实例：控制台SQL Server管理页面点击“创建实例”到达创建页面:
+创建1台SQL Server实例：控制台SQL Server管理页面点击“创建实例”到达创建页面:
 ![image](/images/0202create.png)
 
 根据业务实际情况，选择地域可用区，CPU及内存规格，硬盘大小，网络设置，以及登录用户密码及端口设置后确认提交
