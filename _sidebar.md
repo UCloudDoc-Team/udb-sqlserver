@@ -1,7 +1,5 @@
 
 * [概览](/udb-sqlserver/README)
-
-
 * [什么是云数据库SQL Sever](/udb-sqlserver/introduce)
 * [产品优势](/udb-sqlserver/superiority)
 * [与自建对比](/udb-sqlserver/compare)
