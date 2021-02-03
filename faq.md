@@ -33,7 +33,7 @@ select * from sys.configurations
 连接UDB后执行如下SQL语句可查看:
 
 ```
-select * from sys.dm_exec_connections`
+select * from sys.dm_exec_connections
 ```
 
 ### 7、如何查看当前数据库的空间占用？ 
