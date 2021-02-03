@@ -24,8 +24,9 @@ UCloud为您提供“附带许可”模型的云数据库，在“附带许可�
 ### 5、如何查看数据库的参数信息？ 
 
 连接UDB后执行如下SQL语句可查看：
-
-`select * from sys.configurations`
+```
+select * from sys.configurations
+```
 
 ### 6、如何查看当前数据库的连接信息？ 
 
