@@ -16,9 +16,7 @@ UCloud为您提供“附带许可”模型的云数据库，在“附带许可�
 
 ### 4、如何下载安装SQL Server Management Studio?
 
-先获取SQL Server Management Studio的安装包，方式一：通过[点击此处下载](http://udb-files.cn-bj.ufileos.com/setups/SSMS-Setup-CHS.exe)，
-
-下载地址：http://udb-files.cn-bj.ufileos.com/setups/SSMS-Setup-CHS.exe
+先获取SQL Server Management Studio的安装包，方式一：通过下载地址下载：http://udb-files.cn-bj.ufileos.com/setups/SSMS-Setup-CHS.exe
 
 方式二：通过访问Microsoft网站，下载SQL Server Management Studio安装包。
 
