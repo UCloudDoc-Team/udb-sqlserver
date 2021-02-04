@@ -3,7 +3,7 @@
 
 通过客户端连接访问UDB SQL Server实例。以Microsoft SQL Server Management Studio（SSMS）客户端为例介绍如何连接到UDB SQL Server实例。
 
-1、下载SQL Server管理工具Microsoft SQL Server Management Studio（SSMS）客户端，点击下载（ufile下载地址链接）
+1、下载SQL Server管理工具Microsoft SQL Server Management Studio（SSMS）客户端，[点击下载](http://udb-files.cn-bj.ufileos.com/setups/SSMS-Setup-CHS.exe)
 
 2、在UHost云主机上启动Microsoft SQL Server Management Studio客户端。
 
