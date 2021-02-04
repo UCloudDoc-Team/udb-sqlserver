@@ -1,6 +1,6 @@
-## 快速上手
+# 快速上手
 
-### 新建UDB SQL Server实例
+## 新建UDB SQL Server实例
 
 创建1台SQL Server实例：控制台SQL Server管理页面点击“创建实例”到达创建页面:
 ![image](/images/0202create.png)
