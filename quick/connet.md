@@ -20,7 +20,7 @@
 | 服务器类型| 选择 数据库引擎 。|
 | 服务器名称| 输入UDB SQL Server实例的 IP地址 和 端口号，IP地址与端口号之间用英文逗号隔开，如10.12.12.12,1433。|
 | 身份验证| 选择SQL Server身份验证。|
-| 登录名| UDB SQL Server实例的账号名称(Admin)。|
+| 登录名| UDB SQL Server实例的账号名称(admin)。|
 | 密码| UDB SQL Server实例的账号密码（新建UDB SQL Server实例时设置的密码）。|
 
 5、单击连接，即可连接到实例。
