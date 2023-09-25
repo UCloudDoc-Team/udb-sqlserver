@@ -9,6 +9,7 @@
     * [新建UDB SQL Server实例](/udb-sqlserver/quick/create)
     * [登录访问](/udb-sqlserver/quick/connet)
     * [实例管理](/udb-sqlserver/quick/management)
+    * [配置升降级](/udb-sqlserver/quick/resize)
 * [类型版本](/udb-sqlserver/version)
 * [应用场景](/udb-sqlserver/use)
 * [产品价格](/udb-sqlserver/price)
