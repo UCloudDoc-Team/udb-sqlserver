@@ -2,7 +2,6 @@
 
 ## 新建UDB SQL Server实例
 
-(没有NVME的地域 上线N型(SSD云盘)，两者为互补关系)
 创建1台SQL Server实例：控制台SQL Server管理页面点击“创建实例”到达创建页面:
 ![image](/images/0202create.png)
 
