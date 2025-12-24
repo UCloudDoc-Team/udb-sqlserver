@@ -18,29 +18,29 @@ UDB SQL Server 基于云服务器资源部署，具备明显的成本优势，�
 
 | 地域 | 实例类型 | 数据库类型 |
 | --- | --- | --- |
-| 华北一 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 华北（北京2） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 华北二 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 华北（乌兰察布） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 上海二 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 华东（上海2） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 广州 | 普通版 | SQL Server 2012、SQL Server 2019 |
+| 华南（华南（华南（广州））） | 普通版 | SQL Server 2012、SQL Server 2019 |
 | | 集群版 | SQL Server 2019 |
 | 香港 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 台北 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 台湾（台湾（台湾（台北））） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
 | 新加坡 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 曼谷 | 普通版 | SQL Server 2017、SQL Server 2019 |
+| 泰国（泰国（泰国（曼谷））） | 普通版 | SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 胡志明市 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 越南（胡志明） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 孟买 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 印度（印度（印度（孟买））） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 洛杉矶 | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
+| 美国（美国（美国（洛杉矶））） | 普通版 | SQL Server 2012、SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
-| 拉各斯 | 普通版 | SQL Server 2017、SQL Server 2019 |
+| 尼日利亚（尼日利亚（尼日利亚（拉各斯））） | 普通版 | SQL Server 2017、SQL Server 2019 |
 | | 集群版 | SQL Server 2017、SQL Server 2019 |
 
 
